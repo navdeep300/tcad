@@ -1,0 +1,86 @@
+\begin{theindex}
+
+  \item {arc}, \hyperpage{7}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}arc\discretionary {-}{}{}\_\discretionary {-}{}{}data}, 
+		\hyperpage{7}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}arc\discretionary {-}{}{}\_\discretionary {-}{}{}vec}, 
+		\hyperpage{7}
+    \subitem {no\discretionary {-}{}{}\_\discretionary {-}{}{}arc}, 
+		\hyperpage{7}
+    \subitem {show\discretionary {-}{}{}\_\discretionary {-}{}{}arc}, 
+		\hyperpage{8}
+  \item {arc.\discretionary {-}{}{}h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {circle}, \hyperpage{8}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}circle\discretionary {-}{}{}\_\discretionary {-}{}{}data}, 
+		\hyperpage{8}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}circle\discretionary {-}{}{}\_\discretionary {-}{}{}vec}, 
+		\hyperpage{8}
+    \subitem {no\discretionary {-}{}{}\_\discretionary {-}{}{}circle}, 
+		\hyperpage{8}
+    \subitem {show\discretionary {-}{}{}\_\discretionary {-}{}{}circle}, 
+		\hyperpage{9}
+  \item {circle.\discretionary {-}{}{}h}, \hyperpage{11}
+
+  \indexspace
+
+  \item {draw.\discretionary {-}{}{}h}, \hyperpage{12}
+
+  \indexspace
+
+  \item {entities}, \hyperpage{9}
+  \item {entities.\discretionary {-}{}{}h}, \hyperpage{13}
+
+  \indexspace
+
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}arc\discretionary {-}{}{}\_\discretionary {-}{}{}data}
+    \subitem {arc}, \hyperpage{7}
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}arc\discretionary {-}{}{}\_\discretionary {-}{}{}vec}
+    \subitem {arc}, \hyperpage{7}
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}circle\discretionary {-}{}{}\_\discretionary {-}{}{}data}
+    \subitem {circle}, \hyperpage{8}
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}circle\discretionary {-}{}{}\_\discretionary {-}{}{}vec}
+    \subitem {circle}, \hyperpage{8}
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}line\discretionary {-}{}{}\_\discretionary {-}{}{}data}
+    \subitem {line}, \hyperpage{10}
+  \item {get\discretionary {-}{}{}\_\discretionary {-}{}{}line\discretionary {-}{}{}\_\discretionary {-}{}{}vec}
+    \subitem {line}, \hyperpage{10}
+
+  \indexspace
+
+  \item {line}, \hyperpage{9}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}line\discretionary {-}{}{}\_\discretionary {-}{}{}data}, 
+		\hyperpage{10}
+    \subitem {get\discretionary {-}{}{}\_\discretionary {-}{}{}line\discretionary {-}{}{}\_\discretionary {-}{}{}vec}, 
+		\hyperpage{10}
+    \subitem {no\discretionary {-}{}{}\_\discretionary {-}{}{}line}, 
+		\hyperpage{10}
+    \subitem {show\discretionary {-}{}{}\_\discretionary {-}{}{}line}, 
+		\hyperpage{10}
+  \item {line.\discretionary {-}{}{}h}, \hyperpage{13}
+
+  \indexspace
+
+  \item {main.\discretionary {-}{}{}cc}, \hyperpage{14}
+
+  \indexspace
+
+  \item {no\discretionary {-}{}{}\_\discretionary {-}{}{}arc}
+    \subitem {arc}, \hyperpage{7}
+  \item {no\discretionary {-}{}{}\_\discretionary {-}{}{}circle}
+    \subitem {circle}, \hyperpage{8}
+  \item {no\discretionary {-}{}{}\_\discretionary {-}{}{}line}
+    \subitem {line}, \hyperpage{10}
+
+  \indexspace
+
+  \item {show\discretionary {-}{}{}\_\discretionary {-}{}{}arc}
+    \subitem {arc}, \hyperpage{8}
+  \item {show\discretionary {-}{}{}\_\discretionary {-}{}{}circle}
+    \subitem {circle}, \hyperpage{9}
+  \item {show\discretionary {-}{}{}\_\discretionary {-}{}{}line}
+    \subitem {line}, \hyperpage{10}
+
+\end{theindex}

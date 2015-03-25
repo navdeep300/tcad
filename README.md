@@ -1,1 +1,9 @@
-# tcad
+This is tCAD (terminal based CAD software)
+
+How to install tCAD
+First of all you need to install all dependencies and build system
+Install g++ compiler
+Install Cairo graphics library then,  
+Open terminal and issue commands given below
+1 make
+2 sudo make install 

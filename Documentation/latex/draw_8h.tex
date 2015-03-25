@@ -1,0 +1,64 @@
+\hypertarget{draw_8h}{\section{draw.\-h File Reference}
+\label{draw_8h}\index{draw.\-h@{draw.\-h}}
+}
+
+
+Implementation of drawing entities to backend.  
+
+
+{\ttfamily \#include $<$iostream$>$}\\*
+{\ttfamily \#include $<$vector$>$}\\*
+{\ttfamily \#include $<$cairo/cairo-\/pdf.\-h$>$}\\*
+{\ttfamily \#include \char`\"{}lc/lccairopainter.\-h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}entities.\-h\char`\"{}}\\*
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{draw_8h_a1664d54d81c6fed9ccc53bd2bf031992}{Lc\-Cairo\-Painter {\bfseries lcpainter} (surface, cr)}\label{draw_8h_a1664d54d81c6fed9ccc53bd2bf031992}
+
+\item 
+\hypertarget{draw_8h_a30dbc0614efcd06921afc7dc9104b3e4}{void {\bfseries drawline} (void)}\label{draw_8h_a30dbc0614efcd06921afc7dc9104b3e4}
+
+\item 
+\hypertarget{draw_8h_a2fd98ea12c282136f08e1d09d1acd756}{void {\bfseries drawarc} (void)}\label{draw_8h_a2fd98ea12c282136f08e1d09d1acd756}
+
+\item 
+\hypertarget{draw_8h_ac70f9b47b10989ee37a26ecfee600252}{void {\bfseries drawcircle} (void)}\label{draw_8h_ac70f9b47b10989ee37a26ecfee600252}
+
+\item 
+\hypertarget{draw_8h_a56c5cf8a568cff737ff95520cbe6b405}{void {\bfseries draw} ()}\label{draw_8h_a56c5cf8a568cff737ff95520cbe6b405}
+
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\hypertarget{draw_8h_ab3b66c3ade85e8106f4634a4693e36d5}{\hyperlink{classentities}{entities} {\bfseries obj}}\label{draw_8h_ab3b66c3ade85e8106f4634a4693e36d5}
+
+\item 
+\hypertarget{draw_8h_a4ccc2ef4a43c6291071f905093b5d19b}{vector$<$ double $>$ {\bfseries line\-\_\-data} = obj.\-get\-\_\-line\-\_\-vec()}\label{draw_8h_a4ccc2ef4a43c6291071f905093b5d19b}
+
+\item 
+\hypertarget{draw_8h_a0d1bf92234761f10d76199a964c81558}{vector$<$ double $>$ {\bfseries arc\-\_\-data} = obj.\-get\-\_\-arc\-\_\-vec()}\label{draw_8h_a0d1bf92234761f10d76199a964c81558}
+
+\item 
+\hypertarget{draw_8h_ab36ed22f914afc411d24ff03f2dd843d}{vector$<$ double $>$ {\bfseries circle\-\_\-data} = obj.\-get\-\_\-circle\-\_\-vec()}\label{draw_8h_ab36ed22f914afc411d24ff03f2dd843d}
+
+\item 
+\hypertarget{draw_8h_a76e6dbb8b33b4373ca91aab3cab86245}{cairo\-\_\-surface\-\_\-t $\ast$ {\bfseries surface} =(cairo\-\_\-surface\-\_\-t $\ast$)cairo\-\_\-pdf\-\_\-surface\-\_\-create(\char`\"{}ji.\-pdf\char`\"{},100,100)}\label{draw_8h_a76e6dbb8b33b4373ca91aab3cab86245}
+
+\item 
+\hypertarget{draw_8h_ac2efa4a51d11834112524e53b3dc0f62}{cairo\-\_\-t $\ast$ {\bfseries cr} = cairo\-\_\-create(surface)}\label{draw_8h_ac2efa4a51d11834112524e53b3dc0f62}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Implementation of drawing entities to backend. \begin{DoxyVersion}{Version}
+0.\-2 \textbackslash{} 
+\end{DoxyVersion}
+\begin{DoxyAuthor}{Author}
+Jagmeet Singh, \href{mailto:jagmeet787@gmail.com}{\tt jagmeet787@gmail.\-com} 
+\end{DoxyAuthor}
+\begin{DoxyCopyright}{Copyright}
+Copyright (c) 2013, Jagmeet Singh \href{https://github.com/jagmeet787}{\tt https\-://github.\-com/jagmeet787} 
+\end{DoxyCopyright}

@@ -1,0 +1,12 @@
+High:
+1 Add Entities 
+	Rectangle
+	Ellipse
+	Text
+
+Low:
+1 add backends like jpg, svg, png, ps
+
+Very low:
+1 GUI 
+2 dxf interface
