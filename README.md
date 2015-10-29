@@ -10,3 +10,4 @@ Open terminal and issue commands given below
 2 sudo make install 
 
 Any contribution of any type would be appreciated. If u want to contribute then simply fork our repository and commit changes there, after that send us a pull request. We will review and merge the changes if they are satisfactory.
+Any suggestions will be appreciated.
